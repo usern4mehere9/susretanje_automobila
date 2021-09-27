@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.exe
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.deps.json
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.runtimeconfig.json
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.dll
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\ref\Sustizanje_automobila.dll
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\bin\Debug\net5.0\Sustizanje_automobila.pdb
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.dll
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\ref\Sustizanje_automobila.dll
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.pdb
+C:\Users\Nikola\source\repos\Sustizanje_automobila\Sustizanje_automobila\obj\Debug\net5.0\Sustizanje_automobila.genruntimeconfig.cache
